@@ -1,3 +1,5 @@
+[🇬🇧 English](DESIGN.md) · 🇷🇴 **Română**
+
 # 🤖 Robot Swarm – Document de proiectare
 
 > Sistem distribuit de roboți autonomi care caută împreună o țintă comună.
